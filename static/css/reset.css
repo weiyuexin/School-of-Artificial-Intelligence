@@ -1,0 +1,66 @@
+
+/*通用样式*/
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body, html {
+    font: 12px "microsoft yahei", Arial, Helvetica, sans-serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+ul, li, p, h1, h2, h3, h4, h5, h6, dl, dt, dd {
+    margin: 0;
+    padding: 0;
+    border: none;
+    list-style: none;
+    font-weight: normal;
+}
+
+img {
+    outline: none;
+    border: none;
+}
+
+a {
+    color: #333333;
+    text-decoration: none;
+}
+
+input {
+    border: none;
+    outline: none;
+}
+
+.lf {
+    float: left;
+}
+
+.rt {
+    float: right;
+}
+
+.clearFix {
+    overflow: hidden;
+}
+
+.clear {
+    clear: both;
+}
+
+.re {
+    position: relative;
+}
+
+.ab {
+    position: absolute;
+}
+
+/*通用宽度*/
+.commonWidth {
+    width: 1200px;
+    margin: 0 auto;
+}

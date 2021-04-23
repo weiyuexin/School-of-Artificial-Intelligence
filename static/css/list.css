@@ -1,0 +1,44 @@
+
+
+/*内容列表*/
+.mainCon li {
+    border-bottom: 1px dotted #dcdcdc;
+}
+
+.mainCon a {
+    display: block;
+    width: 100%;
+}
+
+.mainCon a em {
+    width: 4px;
+    height: 4px;
+    background-color: #0f71bc;
+    margin: 28px 10px 0 0;
+}
+
+.mainCon a span {
+    font-size: 16px;
+    text-decoration: none;
+    color: #333333;
+    line-height: 60px;
+    width: 849px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.mainCon a b {
+    font-weight: normal;
+    color: #999999;
+    font-size: 12px;
+    line-height: 60px;
+}
+
+.mainCon a:hover span, .mainCon a:hover b {
+    color: #0f71bc;
+}
+
+.page {
+    margin-top: 30px;
+}

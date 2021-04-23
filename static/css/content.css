@@ -1,0 +1,96 @@
+
+/*内容*/
+.topTitle {
+    padding: 0 30px;
+    margin:20px 0;
+}
+
+.mainRCon .topTitle h2 {
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 40px;
+}
+
+.mainRCon .topTitle h3 {
+    font-size: 16px;
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+.mainRCon .topTitle div {
+    text-align: center;
+    color: #999999;
+    font-size: 16px;
+}
+
+.mainRCon .topTitle div b {
+    font-weight: normal;
+}
+
+.mCon {
+    padding: 20px;
+    border-top: 1px dotted #e6e6e6;
+    border-bottom: 1px dotted #e6e6e6;
+    margin-top:20px;
+}
+
+.mCon p {
+    text-indent: 2em;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.mCon p + p, .dpContent p + p {
+    margin-top: 20px;
+}
+
+.mCon img {
+    display: block;
+    margin: 20px auto;
+}
+
+/*上一篇、下一篇*/
+.subCon {
+    padding: 30px 20px 0;
+}
+
+.subCon a {
+    color: #333333;
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 30px;
+    display: block;
+}
+
+.subCon a b {
+    font-weight: normal;
+}
+
+.subCon a:hover {
+    color: #0f71bc;
+}
+
+.subCon a span {
+    width: 826px;
+}
+
+/*单篇正文*/
+.dpTitle {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 60px;
+}
+
+.dpContent p {
+    text-indent: 2em;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+.dpContent img {
+    display: block;
+    margin: 10px auto;
+}

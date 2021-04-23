@@ -1,0 +1,24 @@
+
+/*单篇正文*/
+.dpTitle {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 60px;
+}
+
+.dpContent p {
+    text-indent: 2em;
+    font-size: 14px;
+    line-height: 26px;
+    margin-top:10px;
+}
+
+.dpContent img{
+    display:block;
+    margin:10px auto;
+}
+
+.dpContent span{
+    font-size:14px;
+}

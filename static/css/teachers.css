@@ -1,0 +1,29 @@
+
+.teacherCon{
+    padding-top:20px;
+}
+.teacherList>li{
+    width:465px;
+    height:215px;
+    margin-bottom:30px;
+}
+.teacherList li a{
+    display: block;
+    height:215px;
+    width:465px;
+}
+.teacherList li b,.teacherList li{
+    font-size:16px;
+}
+.teacherList ul{
+    width:312px;
+    height:215px;
+    padding:12px 30px 0 15px;
+}
+.teacherList ul li{
+    line-height:30px;
+    margin-top:10px;
+}
+.page{
+    margin-top:10px;
+}

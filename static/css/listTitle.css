@@ -1,0 +1,136 @@
+
+.banner {
+    width: 100%;
+    height: 250px;
+}
+
+.banner img {
+    display: block;
+    margin: 0 auto;
+    max-width:100%;
+}
+
+/*主体内容*/
+.main {
+    padding: 40px 0;
+}
+
+/*左*/
+.mainL {
+    width: 228px;
+    background-color: #f2f2f2;
+    border-bottom-right-radius: 30px;
+}
+
+.mainLT {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    height: 75px;
+    background: url(../image/title_bg.png) center no-repeat;
+    color: #ffffff;
+    line-height: 75px;
+}
+
+.sideTitle {
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.sideTitle a {
+    display: block;
+}
+
+.sideTitle a span {
+    font-size: 16px;
+    color: #404040;
+    text-align: center;
+    line-height: 56px;
+    width: 100%;
+}
+
+.on {
+    background-color: #0f71bc;
+    border-left: 2px solid #f07a3e;
+}
+
+div.on a span {
+    color: #ffffff;
+}
+
+.on em {
+    width: 13px;
+    height: 21px;
+    background: url(../image/san.png) center no-repeat;
+    top: 17px;
+    right: 0;
+}
+
+.sideList em {
+    width: 4px;
+    height: 4px;
+    background-color: #00477f;
+    border-radius: 2px;
+    margin: 13px 15px 0 0;
+}
+
+.sideList a {
+    font-size: 14px;
+    color: #7e7e7e;
+    line-height: 30px;
+}
+
+.sideList a:hover {
+    color: #0f71bc;
+}
+
+.sideList {
+    padding: 15px 0 15px 75px;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.logo_pic {
+    padding-bottom: 100px;
+    background: url(../image/logo_pic.png) right bottom no-repeat;
+}
+
+/*右*/
+.mainR {
+    width: 930px;
+}
+
+.mainRTitle {
+    border-bottom: 1px solid #b2b2b2;
+}
+
+.mainRTitle > p {
+    font-size: 20px;
+    color: #0f71bc;
+    height: 60px;
+    line-height: 60px;
+    border-bottom: 2px solid #0f71bc;
+    font-weight: bold;
+}
+
+.mainRTitle div {
+    color: #888888;
+    font-size: 14px;
+    padding-top: 10px;
+    height: 60px;
+    line-height: 60px;
+}
+
+.mainRTitle div a {
+    color: #888888;
+}
+
+.mainRTitle div b {
+    font-weight: normal;
+}
+
+.mainRTitle div a:hover {
+    color: #0f71bc;
+}
+
+.mainRTitle div img {
+    margin: 23px 5px 0 0;
+}
